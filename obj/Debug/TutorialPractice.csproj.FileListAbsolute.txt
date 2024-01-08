@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Desktop\Teaching Materials\Computer Systems 2B_Architecture and OS_AC22005\Week1\C#_Codes\Introduction\Tutorial\TutorialPractice\bin\Debug\TutorialPractice.exe.config
+C:\Users\User\OneDrive\Desktop\Teaching Materials\Computer Systems 2B_Architecture and OS_AC22005\Week1\C#_Codes\Introduction\Tutorial\TutorialPractice\bin\Debug\TutorialPractice.exe
+C:\Users\User\OneDrive\Desktop\Teaching Materials\Computer Systems 2B_Architecture and OS_AC22005\Week1\C#_Codes\Introduction\Tutorial\TutorialPractice\bin\Debug\TutorialPractice.pdb
+C:\Users\User\OneDrive\Desktop\Teaching Materials\Computer Systems 2B_Architecture and OS_AC22005\Week1\C#_Codes\Introduction\Tutorial\TutorialPractice\obj\Debug\TutorialPractice.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Teaching Materials\Computer Systems 2B_Architecture and OS_AC22005\Week1\C#_Codes\Introduction\Tutorial\TutorialPractice\obj\Debug\TutorialPractice.Form1.resources
+C:\Users\User\OneDrive\Desktop\Teaching Materials\Computer Systems 2B_Architecture and OS_AC22005\Week1\C#_Codes\Introduction\Tutorial\TutorialPractice\obj\Debug\TutorialPractice.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\Teaching Materials\Computer Systems 2B_Architecture and OS_AC22005\Week1\C#_Codes\Introduction\Tutorial\TutorialPractice\obj\Debug\TutorialPractice.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Teaching Materials\Computer Systems 2B_Architecture and OS_AC22005\Week1\C#_Codes\Introduction\Tutorial\TutorialPractice\obj\Debug\TutorialPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Teaching Materials\Computer Systems 2B_Architecture and OS_AC22005\Week1\C#_Codes\Introduction\Tutorial\TutorialPractice\obj\Debug\TutorialPractice.exe
+C:\Users\User\OneDrive\Desktop\Teaching Materials\Computer Systems 2B_Architecture and OS_AC22005\Week1\C#_Codes\Introduction\Tutorial\TutorialPractice\obj\Debug\TutorialPractice.pdb
